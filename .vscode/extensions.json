@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "alefragnani.project-manager",
+    "rvest.vs-code-prettier-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}

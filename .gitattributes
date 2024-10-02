@@ -1,0 +1,9 @@
+*.sh   text eol=lf
+*.js   text eol=crlf
+*.css  text eol=crlf
+*.map  text eol=crlf
+*.json text eol=crlf
+*.jsx  text eol=crlf
+*.txt  text eol=crlf
+*.png  binary
+*.gif  binary
